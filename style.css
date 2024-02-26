@@ -713,6 +713,13 @@ img {
   margin-top: -2px;
 }
 
+.sponsoring img{
+  width: 130px;
+  height: 40px;
+  transform: inherit;
+  margin-top: 30px;
+}
+
 /* if screen size is less than 992px */
 @media screen and (max-width: 992px) {
   .logostyle { 
@@ -736,6 +743,14 @@ img {
   background-color: #243455;
   margin-top: -2px;
 }
+
+.sponsoring img{
+  width: 130px;
+  height: 40px;
+  transform: inherit;
+  margin-top: 30px;
+}
+
 }
 
 /* if screen size is less than 600px */
@@ -761,6 +776,14 @@ img {
   background-color: #243455;
   margin-top: 10px;
 }
+
+.sponsoring img{
+  width: 130px;
+  height: 40px;
+  transform: inherit;
+  margin-top: 60px;
+}
+
 }
 
 /* if screen size is less than 500px */
@@ -786,6 +809,14 @@ img {
   background-color: #243455;
   margin-top: 10px;
 }
+
+.sponsoring img{
+  width: 130px;
+  height: 40px;
+  transform: inherit;
+  margin-top: 30px;
+}
+
 }
 
 
